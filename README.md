@@ -1,2 +1,2 @@
 # nauka-c-
-programy jakie robiłem podczas uczenia się języka x#
+programy jakie robiłem podczas uczenia się języka c#
