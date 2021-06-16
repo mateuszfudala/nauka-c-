@@ -1,0 +1,10 @@
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\bin\Debug\netcoreapp2.1\Lekcja30.deps.json
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\bin\Debug\netcoreapp2.1\Lekcja30.runtimeconfig.json
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\bin\Debug\netcoreapp2.1\Lekcja30.runtimeconfig.dev.json
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\bin\Debug\netcoreapp2.1\Lekcja30.dll
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\bin\Debug\netcoreapp2.1\Lekcja30.pdb
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\obj\Debug\netcoreapp2.1\Lekcja30.csproj.CoreCompileInputs.cache
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\obj\Debug\netcoreapp2.1\Lekcja30.AssemblyInfoInputs.cache
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\obj\Debug\netcoreapp2.1\Lekcja30.AssemblyInfo.cs
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\obj\Debug\netcoreapp2.1\Lekcja30.dll
+C:\Users\mfudala\source\repos\Lekcja30\Lekcja30\obj\Debug\netcoreapp2.1\Lekcja30.pdb

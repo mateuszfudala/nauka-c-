@@ -1,0 +1,11 @@
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\bin\Debug\netcoreapp2.1\Lekcja31.deps.json
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\bin\Debug\netcoreapp2.1\Lekcja31.runtimeconfig.json
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\bin\Debug\netcoreapp2.1\Lekcja31.runtimeconfig.dev.json
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\bin\Debug\netcoreapp2.1\Lekcja31.dll
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\bin\Debug\netcoreapp2.1\Lekcja31.pdb
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\obj\Debug\netcoreapp2.1\Lekcja31.csprojAssemblyReference.cache
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\obj\Debug\netcoreapp2.1\Lekcja31.csproj.CoreCompileInputs.cache
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\obj\Debug\netcoreapp2.1\Lekcja31.AssemblyInfoInputs.cache
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\obj\Debug\netcoreapp2.1\Lekcja31.AssemblyInfo.cs
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\obj\Debug\netcoreapp2.1\Lekcja31.dll
+C:\Users\mfudala\source\repos\Lekcja31\Lekcja31\obj\Debug\netcoreapp2.1\Lekcja31.pdb
